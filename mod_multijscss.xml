@@ -44,10 +44,8 @@
 					label="MOD_MULTIJSCSS_FIELD_PREPARE_CONTENT_LABEL"
 					description="MOD_MULTIJSCSS_FIELD_PREPARE_CONTENT_DESC"
 					default="1">
-					<option
-						value="0">JNO</option>
-					<option
-						value="1">JYES</option>
+					<option value="0">JHIDE</option>
+					<option value="1">JSHOW</option>
 				</field>
 				<field 
 					name="stylesheet"
